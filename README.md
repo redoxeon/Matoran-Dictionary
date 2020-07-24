@@ -2,7 +2,7 @@
 
 Searchable Matoran dictionary
 
-# Installation
+## Installation
 
 ### Via Cargo
 
@@ -14,16 +14,16 @@ Coming soon™
 cargo install matoran-dictionary
 ``` -->
 
-# Usage
+## Usage
 
-uhhh... dunno yet. TBD?
+uh... dunno yet. TBD?
 
 something something `bionicle-dict [OPTIONS]`
 
-# Credits
+## Credits
 
 - [Matoran Dictionary by Tumblr user outofgloom](http://outofgloom.tumblr.com/matoran-language)
 
-# License
+## License
 
 Licensed under the [MIT](LICENSE.txt) license.
